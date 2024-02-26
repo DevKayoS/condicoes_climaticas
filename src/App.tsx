@@ -9,7 +9,7 @@ import { Previsao } from "./components/previsao";
 
 export function App() {
   const [cidade, setCidade] = useState('')
-  const [clima, setClima] = useState({})
+  const [clima, setClima] = useState(null)
   const [previsao, setPrevisao] = useState([])
 
   const apiKey = import.meta.env.VITE_API_KEY || ""
