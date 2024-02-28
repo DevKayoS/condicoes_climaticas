@@ -10,8 +10,8 @@ Aplicação web de clima para o intuito de estudos
 Essa aplicação ao entrar nela consegue pegar sua latitude e longitude para mostrar o clima de onde você está e ao pesquisar uma região irá mostrar o clima atual do local pesquisado e a previsão
 
 ## O que foi usado?
-  Foi utilizado nesse projeto: 
-      * React;
-      * TailwindCSS;
-      * TypeScipt;
-      * a API do open weather (para fazer as requições)
+Foi utilizado nesse projeto: 
+  * React;
+  * Tailwindcss;
+  * TypeScript;
+  * API da openweather;
